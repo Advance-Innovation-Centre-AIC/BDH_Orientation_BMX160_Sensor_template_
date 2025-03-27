@@ -1,4 +1,4 @@
-# Empty application template
+# Motion_Sensors_GUI_Integration_via_Serial_Studio_Template
 
 This is a minimal starter application template for Infineon MCU devices.
 
